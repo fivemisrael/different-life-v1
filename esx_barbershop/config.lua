@@ -1,0 +1,18 @@
+Config = {}
+
+Config.Price = 25
+
+Config.DrawDistance = 100.0
+Config.MarkerSize   = vector3(1.5, 1.5, 1.0)
+Config.MarkerColor  = {r = 102, g = 255, b = 255}
+Config.MarkerType   = 27
+
+Config.Locale = 'en'
+
+Config.Shops = {
+	vector3(-814.3, -183.8, 36.6),
+	vector3(136.8, -1708.4, 28.3),
+	vector3(-1282.6, -1116.8, 6.0),
+	vector3(1212.8, -472.9, 65.2),
+	vector3(-32.9, -152.3, 56.1)
+}

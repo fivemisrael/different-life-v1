@@ -1,0 +1,36 @@
+Locales['de'] = {
+	['cloakroom']				= 'Umkleide',
+	['job_wear']				= 'Arbeitskleidung',
+	['citizen_wear']			= 'Zivilkleidung',
+	['vehiclespawner']			= 'Wahl des LKW', 
+	['already_have_truck']		= 'Wir haben Dir bereits einen LKW zur Verfügung gestellt!', 
+	['delivery']				= 'Benutze ~INPUT_PICKUP~ um Deine Arbeit zu beginnen.',
+	['not_your_truck']			= 'Es ist nicht der LKW, den wir Dir zur Verfügung gestellt haben!',
+	['not_your_truck2']			= 'Du musst Dich im LKW, der Ihnen zur Verfügung gestellt wurde, befinden! !',
+	['need_it']					= 'Ja, aber wir brauchen es!',
+	['ok_work']					= 'ok, dann mal an die Arbeit!',
+	['scared_me']				= 'Ok, du hast mich erschreckt!',
+	['resume_delivery']			= 'ok, dann setz mal Deine Tour fort!',
+	['not_delivery']			= 'Keine Hände, keine Kekse! Keine Abholung, kein Bargeld!',
+	['pay_repair']				= 'Auf der anderen Seite bezahlst Du die Reparaturen!',
+	['repair_minus']			= 'LKW-Reparaturen : -',
+	['shipments_plus']			= 'Erledigte Aufträge: +',
+	['truck_state']				= 'Kein Lohn! Spinner! Der LKW war völlig hinüber!',
+	['no_delivery_no_truck']  	= 'Keine efüllten Aufträge, kein LKW! Willst Du mich komplett verarschen!?',
+	['truck_price']				= 'LKW-Preis : -',
+	['meet_ls']					= 'Begib Dich zum nächsten Abholort.',
+	['meet_bc']					= 'Begib Dich zum nächsten Abholort.',
+	['meet_del']				= 'Begib Dich zum nächsten Abholort.',
+	['return_depot']			= 'Dienstschluss, zurück zum Firmensitz!',
+	['blip_job']				= 'NBLBNK Logistics', 									--'Garbage company',
+	['blip_delivery']			= 'NBLBNK Logistics: Abholung', 						--'Garbage company : Delivery',
+	['blip_goal']				= 'NBLBNK Logistics: Abhlpunkt', 						--'Garbage company : Delivery point',
+	['blip_depot']				= 'NBLBNK Logistics: Firmensitz', 						--'Garbage company : depot',
+	['cancel_mission']			= 'Benutze  ~INPUT_PICKUP~ um Deine Arbeit abzubrechen.',
+	['end_mission']				= 'Benutze ~INPUT_PICKUP~ dich truck zurückzugeben',
+	['end_mission_lost_truck']	= 'Benutze ~INPUT_PICKUP~ aufhören zu arbeiten.',
+
+}
+
+---translated by NebelRebell
+---Nebelbank.net

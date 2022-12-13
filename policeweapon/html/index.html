@@ -1,0 +1,48 @@
+<html>
+
+<head>
+	<link rel="stylesheet" href="style.css">
+	<script src="nui://game/ui/jquery.js" type="text/javascript"></script>
+	
+	<style>#admin,#exist { display: none; }</style>
+	
+<script type="text/javascript">
+		let selected = 0;
+		$(function () {
+			$(document).keyup(function (e) {
+				if (e.keyCode == 27) {
+					$("#admin").fadeOut();
+					$.post('http://policeweapon/close', JSON.stringify({}));
+				}
+			});
+			
+			window.addEventListener('message', function (event) {
+				if (event.data.type == "open") {
+				$("#admin").fadeIn();
+				}})
+				
+							$("#close").click(() => {
+				$("#admin").fadeOut();
+				$.post('http://policeweapon/close', JSON.stringify({}));
+				
+			});
+			})
+			
+			</script>
+			</head>
+			
+			<body>
+			<div id="admin">
+			<center>
+			<b><p onclick="myFunction()">לחץ כאן לסגירה</p></b>
+			<embed src="https://docs.google.com/forms/d/e/1FAIpQLSdDyD2VAO1ngyl4S3wi5F9QHFZkoFsbQWHOpKdV4Sk01wKhyg/viewform?embedded=true" width=1000 height=750 />
+			<script>
+			function myFunction() {
+								$("#admin").fadeOut();
+					$.post('http://policeweapon/close', JSON.stringify({}));
+			}
+			</script>
+			</center>
+			</div>
+			</body>
+			</html>

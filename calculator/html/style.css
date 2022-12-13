@@ -1,0 +1,178 @@
+body {
+    margin: 0;
+    /*background: #f4757e;*/
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align:center;
+    min-height: 100vh;
+    font-family: "Montserrat", sans-serif;
+    user-select: none;
+}
+
+
+#calculator {
+    position: absolute;
+    margin-left: 35%;
+    bottom: 3%;
+    background: #232526;
+    background: -webkit-linear-gradient(to right, #414345, #232526);
+    background: linear-gradient(to right, #414345, #232526);
+    width: 420px;
+    height: 600px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px #232526;
+    display: flex;
+    flex-direction: column;
+    /*justify-content: center;*/
+    /*align-items: center;*/
+}
+
+#calculator #screen {
+    background: #a2af77;
+    height: 20%;
+    width: 85%;
+    margin: auto;
+    margin-bottom: 0;
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0px 0px 16px -2px rgba(35, 37, 38, 0.75);
+    -moz-box-shadow: inset 0px 0px 16px -2px rgba(35, 37, 38, 0.75);
+    box-shadow: inset 0px 0px 16px -2px rgba(35, 37, 38, 0.75);
+    box-sizing: border-box;
+    padding: 15px;
+    font-size: 45px;
+    text-align: right;
+    vertical-align: middle;
+    line-height: 200%;
+    font-family: "Montserrat", sans-serif;
+    overflow: hidden;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+#calculator #branding {
+    grid-column: 1/3;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+#calculator #branding h1,
+#calculator #branding small {
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    font-family: Montserrat, sans-serif;
+    text-shadow: 0px 1px 0px rgba(0, 0, 0, 1);
+}
+
+#calculator #buttons {
+    /*    background: #000; */
+    overflow: visible;
+    width: 85%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(4, 75px);
+    grid-gap: 15px;
+    justify-content: center;
+}
+
+button {
+    border: none;
+    color: #fff;
+    text-align: center;
+    font-size: 30px;
+    padding: 5px;
+    background: #000;
+    border-radius: 5px;
+    min-height: 50px;
+    box-sizing: border-box;
+    box-shadow: 2px 2px 3px 1px #232526;
+    position: relative;
+    left: 0;
+    top: 0;
+    transition: all 150ms;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+button:hover {
+    left: 2px;
+    top: 2px;
+    box-shadow: 0px 0px 0px 0px #232526;
+}
+
+button:focus {
+    outline: none;
+}
+
+button.btn-hover {
+    left: 2px;
+    top: 2px;
+    box-shadow: 0px 0px 0px 0px #232526;
+}
+
+button.btn-grey {
+    background: #5d5d5f;
+}
+
+button#backspace-btn {
+    grid-column: 4/5;
+    background: #f65532;
+    background: #000;
+    border-radius: 50%;
+}
+
+
+button#zero-btn {
+    grid-column: 1/3;
+}
+
+button#equals-btn {
+    grid-column: 4/5;
+    grid-row: 5/7;
+    background: #f65532;
+}
+
+#screen::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    background-color: #f5f5f5;
+}
+
+#screen::-webkit-scrollbar {
+    height: 5px;
+    background-color: #f5f5f5;
+}
+
+#screen::-webkit-scrollbar-thumb {
+    background-color: #000;
+    background-image: -webkit-gradient(
+            linear,
+            0 0,
+            0 100%,
+            color-stop(0.5, rgba(255, 255, 255, 0.2)),
+            color-stop(0.5, transparent),
+            to(transparent)
+    );
+}
+
+@keyframes blink {
+    0% {
+        opacity: 1;
+    }
+
+    50% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}

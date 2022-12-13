@@ -1,0 +1,15 @@
+Locales['en'] = {
+	['GPS_info'] = 'Go to the point, the route has been calculated on GPS',
+	['cancel_mission'] = 'The route has been removed from GPS',
+	['pickup'] = "Press ~INPUT_CONTEXT~ to start working",
+	['end_service'] = 'Finish service',
+	['take_service'] = 'Work clothes',
+	['end_service_notif'] = 'You have finished working',
+	['take_service_notif'] = 'You started working.',
+	['start_job'] = 'Enter the company car and press 8 to mark the route on GPS',
+	['Vehicle_Menu_Title'] = 'Garage',
+	['in_vehicle'] = 'Get out of the vehicle!',
+	['vehicle_broken'] = 'The car is too damaged!',
+	['not_good_veh'] = 'You must be in a business vehicle to start working.',
+	['stop_npc'] = 'Come back to the base!',
+}

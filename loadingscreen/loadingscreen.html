@@ -1,0 +1,125 @@
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<link href="css/style.css" rel="stylesheet" type="text/css" />
+	</head>
+
+	<body  style="-webkit-user-select: none">
+		<audio autoplay loop id="A1" onload="playmusic()">
+			<source src="music/Loading.mp3" type="audio/mpeg">
+		</audio>
+		
+		<div style="display: block;background-image: url(5.png);background-size: cover;background-position: 0px 0px;width: 100%; height: 100%; background-color: #000000dd;position: fixed; left: 0px;top: 0px"></div>
+		<div style="width: 400px; height: 810px; background-color: #000000dd;position: fixed; left: calc(100% - 450px);top: 5%"></div>
+			<p style="position: fixed; font-family: Calibri; left: calc(100% - 320px);top: calc(5% - 25px); color: #4dd5f1; font-size: 30px"><b>מקשי משחק</b></p>
+			<p style="position: fixed; font-family: Calibri; left: calc(100% - 420px);top: calc(5% + 20px); color: #FFFFFFFF; font-size: 24px" ><span style="color: #4dd5f1">[F1]</span> - טלפון<br>
+				<span style="color: #4dd5f1">[F2]</span> - אינבנטורי<br>
+				<span style="color: #4dd5f1">[F3]</span> - תפריט אנימציות<br>
+				<span style="color: #4dd5f1">[F5]</span> - תפריט חטיפה<br>
+				<span style="color: #4dd5f1">[F6]</span> - תפריט עבודה<br>
+				<span style="color: #4dd5f1">[F7]</span> - תפריט דוחות וקבלות<br>
+				<span style="color: #4dd5f1">[F8]</span> - שורת פקודות<br>
+				<span style="color: #4dd5f1">[F9]</span> - תפריט רשיונות<br>
+				<span style="color: #4dd5f1">[Z]</span> - לשכב על הרצפה<br>
+				<span style="color: #4dd5f1">[X]</span> - להרים ידיים<br>
+				<span style="color: #4dd5f1">[G]</span> - תא מטען<br>
+				<span style="color: #4dd5f1">[K]</span> - תפריט אביזרים<br>
+				<span style="color: #4dd5f1">[,]</span> - ליפול על הרצפה<br>
+				<span style="color: #4dd5f1">[CTRL]</span> - להתכופף<br>
+				<span style="color: #4dd5f1">[Z]</span> - הגבלת מהירות ברכב<br>
+				<span style="color: #4dd5f1">[B]</span> - חגורה ברכב<br>
+				<span style="color: #4dd5f1">[~]</span> - דיבור במכשיר הקשר<br>
+				<span style="color: #4dd5f1">[PAGEUP]</span> - רשימת שחקנים<br>
+				<span style="color: #4dd5f1">[CTRL + M]</span> - ראדאר משטרתי<br>
+				<span style="color: #4dd5f1">[ALT + G]</span> - לתת כאפה<br>
+				<span style="color: #4dd5f1">[ALT + H]</span> - לשרוק<br>
+				<span style="color: #4dd5f1">[SHIFT + G]</span> - להפיל מישהו על הרצפה<br>
+				<span style="color: #4dd5f1">[U]</span> - לשנות מצב קול<br>
+				<span style="color: #4dd5f1">[L]</span> - לנעול רכב בבעלותך<br>
+				<span style="color: #4dd5f1">[H]</span> - לעשות הווטווייר ברכב<br>
+				<span style="color: #4dd5f1">[HOLD P]</span> - לנסות למצוא מפתחות ברכב<br>
+			</p>
+			
+		</div>
+		
+		
+		<div style="width: 400px; height: 470px; background-color: #000000dd;position: fixed; left: calc(1%);top: 5%"></div>
+		<p style="position: fixed; font-family: Calibri; left: calc(2% + 85px);top: calc(5% - 25px); color: #4dd5f1; font-size: 30px"><b>פקודות שימושיות</b></p>
+		<p style="position: fixed; font-family: Calibri; left: calc(2%);top: calc(5% + 20px); color: #FFFFFFFF; font-size: 24px;width: 400px" >
+				<span style="color: #4dd5f1">[/ooc]</span> - צאט במשחק<br>
+				<span style="color: #4dd5f1">[/job]</span> - שולח את העבודה העכשיווית<br>
+				<span style="color: #4dd5f1">[/bank]</span> - שולח את היתרה בבנק<br>
+				<span style="color: #4dd5f1">[/cash]</span> - שולח את המזומן שעליך<br>
+				<span style="color: #4dd5f1">[/society]</span> - שולח את כמות הכסף בחברה הרשומה<br>
+				<span style="color: #4dd5f1">[/dirty]</span> - שולח את כמות הכסף השחור<br>
+				<span style="color: #4dd5f1">[/do]</span> - לציין עובדה<br>
+				<span style="color: #4dd5f1">[/me]</span> - לציין מעשה<br>
+				<span style="color: #4dd5f1">[/report]</span> - מבקש אדמין<br>
+				<span style="color: #4dd5f1">[/id]</span> - שולח בצאט את האידי של השולח<br>
+				<span style="color: #4dd5f1">[/info]</span> - [IC] פרטיי רופליי<br>
+				<span style="color: #4dd5f1">[/notepad]</span> - להוציא ולכתוב פיתקית<br>
+				<span style="color: #4dd5f1">[/entertrunk]</span> - 'להכנס\לצאת מבגאז<br>
+		</p>
+		
+		
+		
+		
+		<div style="width: 250px; height: 52px; background-color: #000000aa;position: fixed; left: calc(1% + 30px);top: calc(80% + 35px); border-radius: 50px"></div>
+		<div style="width: 250px; height: 52px; background-color: #000000aa;position: fixed; left: calc(1% + 30px);top: calc(80% + 95px); border-radius: 50px"></div>
+		
+		<div id="background" style="display: block;background-image: url(logo.png);width: 846px; height: 249px; background-color: #00000000;position: fixed; left: calc(50% - 430px);top: 5%"></div>
+		
+		<div id="particle"></div>
+		<script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+		<script src="config.js"></script>
+		<script src="js/main.js"></script>
+		
+		
+		<p style="position: fixed; left: 120px; top:calc(80% + 35px);font-weight: 500;font-family: sans-serif;color: #5ecbe8;text-shadow: 1px 1px #2a2a2a;">https://different-life.net/</a>
+		<p style="background-color: ##5ecbe8; border: 0; outline: 0; border-top-left-radius: 10px; border-bottom-left-radius: 10px; position: fixed;width: 50px;height: 50px;left: 50px;top: calc(80% + 20px); background-color: #5ecbe8;"></p>
+		<img style=" width: 30px;height: 30px;position:fixed;left: 60px; top:calc(80% + 45px); " src="http://chichesternursery.org/wp-content/uploads/2015/09/Earth_grid_select_language_button_256.png">
+		
+		<p style="position: fixed; left: 120px; top:calc(80% + 95px);font-weight: 500;font-family: sans-serif;color: #5ecbe8;text-shadow: 1px 1px #2a2a2a;">https://discord.gg/dlrp</a>
+		<p style="background-color: ##5ecbe8; border: 0; outline: 0; border-top-left-radius: 10px; border-bottom-left-radius: 10px; position: fixed;width: 50px;height: 50px;left: 50px;top: calc(80% + 80px); background-color: #5ecbe8;"></p>
+		<img style=" width: 30px;height: 25px;position:fixed;left: 60px; top:calc(80% + 110px); " src="https://thesilphroad.com/img/icons/discord.png">
+		
+		
+		<div class="lds-ripple"><div></div><div></div></div>
+		
+		<p style="position:fixed; left: calc(35% + 100px); top:calc(80% - 10px); font-family:Calibri; font-size: 30px;color: #ff0000bb">טוען כעת את השרת</p>
+	<script type="text/javascript">
+			var play = false;
+			var x = document.getElementById("A1"); 
+			x.volume = 0.1;
+			x.play();
+			function playmusic()
+			{
+				if (play) {
+					x.play();
+					play = false;
+				} else {
+					x.play();
+					play = true;
+				}
+				x.play();  
+			}
+
+			function onKeyDown(event) {
+				switch (event.keyCode) {
+					case 32: //SpaceBar
+						if (play) {
+							x.pause();
+							play = false;
+						} else {
+							x.play();
+							play = true;
+						}
+						break;
+				}
+				return false;
+			}
+			window.addEventListener("keydown", onKeyDown, false);
+	</script>
+	</body>
+	
+</html>

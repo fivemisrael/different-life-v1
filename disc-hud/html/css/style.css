@@ -1,0 +1,128 @@
+@font-face {
+    font-family: 'Verdana';
+    src: url('../fonts/Verdana.ttf');
+}
+
+@font-face {
+	font-family: 'niveau';
+	src: url('../fonts/niveau.ttf');
+}
+
+body {
+    font-family: "pricedown", Verdana, Tahoma;
+    font-size: 40px;
+    overflow: hidden;
+    height: 1080px;
+    width: 100%;
+}
+
+.car {
+    display: none;
+}
+
+.speed, .gas, .measurement-val {
+    font-family: 'niveau';
+	text-shadow: 0px 1px 4px black;
+    font-weight: bold;
+    position: absolute;
+    bottom: 55px;
+    color: #ffffff;
+    font-size: 30%;
+}
+
+.speed {
+    left: calc(17.6% + 90px);
+}
+
+.measurement-val {
+	font-size: 0.9vh;
+    bottom:60px;
+	left: calc(17.5% + 130px);
+	position:fixed;
+}
+
+.gas {
+    left: 17.5%;
+}
+
+.fuel-val, .speed-val {
+    color: rgb(255, 255, 255);
+    font-size: 125% !important;
+    font-family: 'Verdana';
+}
+
+.fuel-val.low, .speed-val.fast {
+    color: rgb(224, 50, 50);
+    font-family: 'Verdana';
+}
+
+.seatbelt, .cruise {
+    font-family: 'niveau';
+	text-shadow: 0px 1px 4px black;
+    font-weight: bold;
+    font-size: 15px;
+    position: absolute;
+    bottom: 55px;
+}
+
+.clock {
+    font-family: 'Verdana';
+	text-shadow: 0px 1px 4px black;
+    font-weight: bold;
+    font-size: 12px;
+    position: absolute;
+    bottom: 85px;
+}
+
+.clock {
+    left: 17.5%;
+}
+
+.seatbelt {
+    left: calc(16.5% + 200px);
+    font-family: 'Verdana';
+    text-shadow: 0px 1px 4px black;
+
+}
+
+.cruise {
+    left: 27%;
+}
+
+.clock {
+    color: rgb(255, 255, 255);
+}
+
+.ampm {
+    color: rgb(255, 255, 255);
+}
+
+.seatbelt.on, .cruise.on {
+    color: rgb(41, 112, 41);
+}
+.cruise.off {
+    color: rgb(255, 255, 255);
+}
+
+.seatbelt.off {
+    color: rgb(224, 50, 50);
+}
+
+.position {
+    font-family: 'niveau';
+	text-shadow: 0px 1px 4px black;
+    font-size: 17px;
+    font-weight: bold;
+    position: absolute;
+    bottom: 14px;
+    left: 24%;
+    color: #ffffff;
+}
+
+.seperator {
+    color: rgb(255, 255, 255);
+}
+
+.seperator2 {
+    color: rgb(255, 255, 255);
+}

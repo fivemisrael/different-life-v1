@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css?family=Kalam');
+
+html, body {
+    height: 100%;
+    overflow: hidden;
+}
+
+#notepad {
+    display: none;
+    position: absolute;
+    left: 136vh;
+    top: 50vh;
+    width: 423px;
+    height: 493px;
+    background-image: url("../img/bg.png");
+    background-size: contain;
+    padding: 50px 40px;
+    z-index: 1;
+}
+
+#notepad #note-txt {
+    background-color: transparent;
+    resize: none;
+    height: 35vh;
+    width: 33vh;
+    font-family: 'Kalam', cursive;
+
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    overflow: auto;
+    outline: none;
+    line-height: 160%;
+
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+
+#notepad2 {
+    display: none;
+    position: relative;
+    left: 136vh;
+    top: 50vh;
+    width: 423px;
+    height: 493px;
+    background-image: url("../img/bg.png");
+    background-size: contain;
+    padding: 50px 40px;
+}
+
+#notepad2 #note-txt2 {
+    background-color: transparent;
+    resize: none;
+    height: 35vh;
+    width: 33vh;
+    font-family: 'Kalam', cursive;
+
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    overflow: auto;
+    outline: none;
+    line-height: 160%;
+
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+
+.btn {
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    border-radius: 100px;
+    font-size: 13px;
+    padding: 10px 10px
+}
+
+.btn-drop {
+    font-family: 'Open Sans', sans-serif;
+    background-color: orange;
+}
+
+.btn-save {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #356680;
+    color: #f0f0f0;
+}
+
+.moveable {
+    position: relative;
+    background-color: #900c27;
+    z-index: 5;
+    border-radius: 100px;
+    width: 5px;
+    padding: 5px 5px;
+    display: none;
+}

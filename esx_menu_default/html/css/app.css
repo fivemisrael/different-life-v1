@@ -1,0 +1,57 @@
+.menu {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 100;
+  min-width: 240px;
+  max-width: 240px;
+  color: #fff;
+  left: 40;
+  top: 80;
+  position: absolute;
+}
+
+.menu.align-center {
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.menu .head-default {
+  font-size: 16px;
+  background-color: rgba(228, 60, 52, 0.70);
+  text-align: center;
+  padding: 14px;
+  color: #FFFFFF;
+  border-radius: 2px;
+  margin-bottom: 6px;
+  font-weight: bold;
+}
+
+.menu .menu-items {
+  max-height: 375px;
+  overflow-y: hidden;
+}
+
+.menu .menu-items .menu-item {
+  display: block;
+  font-size: 13px;
+  background-image: linear-gradient( to right, rgb(5, 5, 5, 0.65), rgb(5, 5, 5, 0.65) 40%);
+  height: 39px;
+  line-height: 39px;
+  text-align: center;
+  justify-content: space-between;
+  border-radius: 2px;
+  margin-bottom: 5px;
+  color: white;
+  position: relative;
+}
+
+.menu .menu-items:nth-child(1) {
+  margin-top: 0;
+}
+
+.menu .menu-items .menu-item.selected {
+  color: rgb(228, 60, 52, 0.65);
+  font-weight: bold;
+  background-image: none;
+  background-color: rgb(5, 5, 5, 0.85);
+}

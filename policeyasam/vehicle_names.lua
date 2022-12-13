@@ -1,0 +1,5 @@
+Citizen.CreateThread(function()
+    Wait(0)
+    AddTextEntryByHash(`YasamBike`, 'YasamBike')
+    AddTextEntryByHash(`Outlaw`, 'Outlaw')
+end)

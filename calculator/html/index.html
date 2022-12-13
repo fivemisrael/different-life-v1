@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+    <meta charset="UTF-8">
+    <title>JavaScript Calculator</title>
+    <link href='https://fonts.googleapis.com/css?family=Orbitron' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,700" rel="stylesheet"><link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.1/css/all.min.css'>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<!-- partial:index.partial.html -->
+<div id="calculator">
+    <div id="screen">
+        <span class="cursor">|</span>
+    </div>
+    <div id="buttons">
+        <div id="branding">
+            <h1>CALC</h1>
+            <div id="model">
+                <small>WST-007</small>
+            </div>
+        </div>
+        <button class="btn" id="backspace-btn" data-value="Backspace">&#8678;</button>
+        <button class="btn" data-value="MC">MC</button>
+        <button class="btn" data-value="%">%</button>
+        <button class="btn" data-value="/">&divide;</button>
+        <button class="btn" data-value="*">&times;</button>
+        <button class="btn btn-grey" data-value="7">7</button>
+        <button class="btn btn-grey" data-value="8">8</button>
+        <button class="btn btn-grey" data-value="9">9</button>
+        <button class="btn btn-grey" data-value="-">-</button>
+        <button class="btn btn-grey" data-value="4">4</button>
+        <button class="btn btn-grey" data-value="5">5</button>
+        <button class="btn btn-grey" data-value="6">6</button>
+        <button class="btn btn-grey" data-value="+">+</button>
+        <button class="btn btn-grey" data-value="1">1</button>
+        <button class="btn btn-grey" data-value="2">2</button>
+        <button class="btn btn-grey" data-value="3">3</button>
+        <button class="btn" id="equals-btn" data-value="=">=</button>
+        <button class="btn btn-grey" id="zero-btn" data-value="0">0</button>
+        <button class="btn btn-grey" data-value=".">.</button>
+    </div>
+</div>
+
+<audio>
+    <source src="http://d.zaix.ru/bAnm.mp3" type="audio/mp3">
+</audio>
+<!-- partial -->
+<script src="jquery.js" type="text/javascript"></script>
+<script src="script.js" type="text/javascript"></script>
+</body>
+</html>

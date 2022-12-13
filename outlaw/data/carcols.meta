@@ -1,0 +1,3294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVarGlobal>
+  <Kits>
+      <Item>
+      <kitName>407_outlaw_modkit</kitName>
+      <id value="407" />	 	  
+      <kitType>MKT_SPECIAL</kitType>
+      <visibleMods>
+        <Item>
+          <modelName>apc_livery1</modelName>
+          <modShopLabel>CAMO_LIV1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>misc_a</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>apc_livery2</modelName>
+          <modShopLabel>CAMO_LIV2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>misc_a</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>apc_livery3</modelName>
+          <modShopLabel>CAMO_LIV3</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>misc_a</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>apc_livery4</modelName>
+          <modShopLabel>CAMO_LIV4</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>misc_a</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>apc_livery5</modelName>
+          <modShopLabel>CAMO_LIV5</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>misc_a</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>apc_livery6</modelName>
+          <modShopLabel>CAMO_LIV6</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>misc_a</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>apc_livery7</modelName>
+          <modShopLabel>CAMO_LIV7</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>misc_a</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>apc_livery8</modelName>
+          <modShopLabel>CAMO_LIV8</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>misc_a</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>apc_livery9</modelName>
+          <modShopLabel>CAMO_LIV9</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>misc_a</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>apc_livery10</modelName>
+          <modShopLabel>CAMO_LIV10</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>misc_a</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>apc_livery11</modelName>
+          <modShopLabel>CAMO_LIV11</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>misc_a</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>apc_livery12</modelName>
+          <modShopLabel>CAMO_LIV12</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>misc_a</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>apc_livery13</modelName>
+          <modShopLabel>CAMO_LIV13</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>misc_a</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>apc_livery14</modelName>
+          <modShopLabel>CAMO_LIV14</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>misc_a</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>apc_livery15</modelName>
+          <modShopLabel>CAMO_LIV15</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>misc_a</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>apc_livery16</modelName>
+          <modShopLabel>CAMO_LIV16</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>misc_a</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>apc_livery17</modelName>
+          <modShopLabel>CAMO_LIV17</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>misc_a</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>apc_livery18</modelName>
+          <modShopLabel>CAMO_LIV18</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>misc_a</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>apc_livery19</modelName>
+          <modShopLabel>CAMO_LIV19</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>misc_a</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>apc_livery20</modelName>
+          <modShopLabel>CAMO_LIV20</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>misc_a</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+      </visibleMods>
+      <linkMods />
+      <statMods>
+        <Item>
+          <identifier />
+          <modifier value="40" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="60" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="80" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="200" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="20" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="40" />
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="60" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="80" />
+          <audioApply value="1.000000" />
+          <weight value="30" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="40" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier>HORN_TRUCK</identifier>
+          <modifier value="1766676233" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_COP</identifier>
+          <modifier value="2904189469" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_CLOWN</identifier>
+          <modifier value="2543206147" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_1</identifier>
+          <modifier value="1732399718" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_2</identifier>
+          <modifier value="2046162893" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_3</identifier>
+          <modifier value="2194999691" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_4</identifier>
+          <modifier value="2508304100" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_5</identifier>
+          <modifier value="3707223535" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>HORN_SAD_TROMBONE</identifier>
+          <modifier value="632950117" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_1</identifier>
+          <modifier value="3628534289" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_2</identifier>
+          <modifier value="3892554122" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_3</identifier>
+          <modifier value="4112892878" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_4</identifier>
+          <modifier value="116877169" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_5</identifier>
+          <modifier value="2684983719" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_6</identifier>
+          <modifier value="2982690084" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>MUSICAL_HORN_BUSINESS_7</identifier>
+          <modifier value="3203290992" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C0</identifier>
+          <modifier value="771284519" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_D0</identifier>
+          <modifier value="2586621229" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_E0</identifier>
+          <modifier value="283386134" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_F0</identifier>
+          <modifier value="3884502400" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_G0</identifier>
+          <modifier value="265723083" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_A0</identifier>
+          <modifier value="1746883687" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_B0</identifier>
+          <modifier value="1919870950" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C1</identifier>
+          <modifier value="1085277077" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+        <Item>
+          <identifier>HIPSTER_HORN_1</identifier>
+          <modifier value="444549672" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_2</identifier>
+          <modifier value="1603064898" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_3</identifier>
+          <modifier value="240366033" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_4</identifier>
+          <modifier value="960137118" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_1</identifier>
+          <modifier value="3572144790" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_2</identifier>
+          <modifier value="3801396714" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_3</identifier>
+          <modifier value="2843657151" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_4</identifier>
+          <modifier value="3341811489" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXE_HORN_1</identifier>
+          <modifier value="3199657341" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXE_HORN_2</identifier>
+          <modifier value="2900378064" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXE_HORN_3</identifier>
+          <modifier value="3956195248" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LUXORY_HORN_1</identifier>
+          <modifier value="676333254" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LUXURY_HORN_2</identifier>
+          <modifier value="2099578296" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LUXURY_HORN_3</identifier>
+          <modifier value="1373384483" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_01</identifier>
+          <modifier value="2916775806" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_01_PREVIEW</identifier>
+          <modifier value="3714706952" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_02</identifier>
+          <modifier value="2611860261" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_02_PREVIEW</identifier>
+          <modifier value="3206770359" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>LOWRIDER_HORN_1</identifier>
+          <modifier value="310529291" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LOWRIDER_HORN_1_PREVIEW</identifier>
+          <modifier value="2965568987" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>LOWRIDER_HORN_2</identifier>
+          <modifier value="55291550" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LOWRIDER_HORN_2_PREVIEW</identifier>
+          <modifier value="965054819" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>XM15_HORN_01</identifier>
+          <modifier value="55862314" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>XM15_HORN_01_PREVIEW</identifier>
+          <modifier value="2156743178" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>XM15_HORN_02</identifier>
+          <modifier value="400002352" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>XM15_HORN_02_PREVIEW</identifier>
+          <modifier value="897484282" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>XM15_HORN_03</identifier>
+          <modifier value="560832604" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>XM15_HORN_03_PREVIEW</identifier>
+          <modifier value="314232747" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+   		<Item>
+          <identifier>DLC_AW_Airhorn_01</identifier>
+          <modifier value="3851180092" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>DLC_AW_Airhorn_01_Preview</identifier>
+          <modifier value="246182814" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>DLC_AW_Airhorn_02</identifier>
+          <modifier value="3412861948" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>DLC_AW_Airhorn_02_Preview</identifier>
+          <modifier value="1804608241" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>DLC_AW_Airhorn_03</identifier>
+          <modifier value="3374260066" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>DLC_AW_Airhorn_03_Preview</identifier>
+          <modifier value="2798044638" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+      </statMods>
+      <slotNames />
+      <liveryNames />
+    </Item>
+   
+   
+   
+      <kitName>404_jb7002_modkit</kitName>
+      <id value="404" />
+      <kitType>MKT_SPECIAL</kitType>
+      <visibleMods>
+		<Item>
+          <modelName>dummy_mod_frag_model</modelName>
+          <modShopLabel>SPIKE_MINE</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_WING_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>dummy_mod_frag_model</modelName>
+          <modShopLabel>SLICK_MINE</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_WING_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>jb_guns</modelName>
+          <modShopLabel>WTD_V_COM_MG</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<item>misc_b</item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="false" />
+		  <weaponSlot value="0" />
+        </Item>
+      </visibleMods>
+	  <linkMods/>
+      <statMods>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="70" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="90" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="110" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="200" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="75" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="90" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="20" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="40" />
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="60" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="80" />
+          <audioApply value="1.000000" />
+          <weight value="30" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="40" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier>HORN_TRUCK</identifier>
+          <modifier value="1766676233" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_COP</identifier>
+          <modifier value="2904189469" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_CLOWN</identifier>
+          <modifier value="2543206147" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_1</identifier>
+          <modifier value="1732399718" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_2</identifier>
+          <modifier value="2046162893" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_3</identifier>
+          <modifier value="2194999691" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_4</identifier>
+          <modifier value="2508304100" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_5</identifier>
+          <modifier value="3707223535" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>HORN_SAD_TROMBONE</identifier>
+          <modifier value="632950117" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_1</identifier>
+          <modifier value="3628534289" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_2</identifier>
+          <modifier value="3892554122" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_3</identifier>
+          <modifier value="4112892878" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_4</identifier>
+          <modifier value="116877169" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_5</identifier>
+          <modifier value="2684983719" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_6</identifier>
+          <modifier value="2982690084" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>MUSICAL_HORN_BUSINESS_7</identifier>
+          <modifier value="3203290992" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C0</identifier>
+          <modifier value="771284519" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_D0</identifier>
+          <modifier value="2586621229" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_E0</identifier>
+          <modifier value="283386134" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_F0</identifier>
+          <modifier value="3884502400" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_G0</identifier>
+          <modifier value="265723083" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_A0</identifier>
+          <modifier value="1746883687" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_B0</identifier>
+          <modifier value="1919870950" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C1</identifier>
+          <modifier value="1085277077" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+        <Item>
+          <identifier>HIPSTER_HORN_1</identifier>
+          <modifier value="444549672" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_2</identifier>
+          <modifier value="1603064898" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_3</identifier>
+          <modifier value="240366033" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_4</identifier>
+          <modifier value="960137118" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_1</identifier>
+          <modifier value="3572144790" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_2</identifier>
+          <modifier value="3801396714" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_3</identifier>
+          <modifier value="2843657151" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_4</identifier>
+          <modifier value="3341811489" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXE_HORN_1</identifier>
+          <modifier value="3199657341" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+    <Item>
+          <identifier>LUXE_HORN_2</identifier>
+          <modifier value="2900378064" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+    <Item>
+          <identifier>LUXE_HORN_3</identifier>
+          <modifier value="3956195248" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LUXORY_HORN_1</identifier>
+          <modifier value="676333254" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LUXURY_HORN_2</identifier>
+          <modifier value="2099578296" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LUXURY_HORN_3</identifier>
+          <modifier value="1373384483" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_01</identifier>
+          <modifier value="2916775806" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_01_PREVIEW</identifier>
+          <modifier value="3714706952" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_02</identifier>
+          <modifier value="2611860261" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_02_PREVIEW</identifier>
+          <modifier value="3206770359" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>LOWRIDER_HORN_1</identifier>
+          <modifier value="310529291" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LOWRIDER_HORN_1_PREVIEW</identifier>
+          <modifier value="2965568987" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>LOWRIDER_HORN_2</identifier>
+          <modifier value="55291550" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LOWRIDER_HORN_2_PREVIEW</identifier>
+          <modifier value="965054819" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>XM15_HORN_01</identifier>
+          <modifier value="55862314" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>XM15_HORN_01_PREVIEW</identifier>
+          <modifier value="2156743178" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>XM15_HORN_02</identifier>
+          <modifier value="400002352" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>XM15_HORN_02_PREVIEW</identifier>
+          <modifier value="897484282" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>XM15_HORN_03</identifier>
+          <modifier value="560832604" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>XM15_HORN_03_PREVIEW</identifier>
+          <modifier value="314232747" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+   		<Item>
+          <identifier>DLC_AW_Airhorn_01</identifier>
+          <modifier value="3851180092" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>DLC_AW_Airhorn_01_Preview</identifier>
+          <modifier value="246182814" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>DLC_AW_Airhorn_02</identifier>
+          <modifier value="3412861948" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>DLC_AW_Airhorn_02_Preview</identifier>
+          <modifier value="1804608241" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>DLC_AW_Airhorn_03</identifier>
+          <modifier value="3374260066" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>DLC_AW_Airhorn_03_Preview</identifier>
+          <modifier value="2798044638" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+      </statMods>
+	  <slotNames>
+		<Item>
+          <slot>VMT_WING_R</slot>
+          <name>TOP_SWEAPON</name>
+        </Item>
+		<Item>
+          <slot>VMT_ROOF</slot>
+          <name>TOP_WEAPONS</name>
+        </Item>
+		</slotNames>
+      <liveryNames />
+    </Item>
+  </Kits>
+  
+  
+  
+  
+  
+  <Lights>
+      <Item>
+      <id value="148" />
+      <indicator>
+        <intensity value="0.375000" />
+        <falloffMax value="2.500000" />
+        <falloffExponent value="8.000000" />
+        <innerConeAngle value="30.000000" />
+        <outerConeAngle value="80.000000" />
+        <emmissiveBoost value="false" />
+        <color value="0xFFFF8000" />
+        <textureName />
+        <mirrorTexture value="true" />
+      </indicator>
+      <rearIndicatorCorona>
+        <size value="0.000000" />
+        <size_far value="0.000000" />
+        <intensity value="0.000000" />
+        <intensity_far value="0.000000" />
+        <color value="0x00000000" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </rearIndicatorCorona>
+      <frontIndicatorCorona>
+        <size value="0.000000" />
+        <size_far value="0.000000" />
+        <intensity value="0.000000" />
+        <intensity_far value="0.000000" />
+        <color value="0x00000000" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </frontIndicatorCorona>
+      <tailLight>
+        <intensity value="0.250000" />
+        <falloffMax value="4.000000" />
+        <falloffExponent value="16.000000" />
+        <innerConeAngle value="45.000000" />
+        <outerConeAngle value="90.000000" />
+        <emmissiveBoost value="false" />
+        <color value="0xFFFF0000" />
+        <textureName />
+        <mirrorTexture value="true" />
+      </tailLight>
+      <tailLightCorona>
+        <size value="0.000000" />
+        <size_far value="8.000000" />
+        <intensity value="4.000000" />
+        <intensity_far value="1.000000" />
+        <color value="0xFFFF1E05" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </tailLightCorona>
+      <tailLightMiddleCorona>
+        <size value="0.000000" />
+        <size_far value="0.000000" />
+        <intensity value="0.000000" />
+        <intensity_far value="0.000000" />
+        <color value="0x00000000" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </tailLightMiddleCorona>
+      <headLight>
+        <intensity value="1.000000" />
+        <falloffMax value="35.000000" />
+        <falloffExponent value="16.000000" />
+        <innerConeAngle value="0.000000" />
+        <outerConeAngle value="60.209999" />
+        <emmissiveBoost value="false" />
+        <color value="0xFFFFFFCC" />
+        <textureName>VehicleLight_car_LED1</textureName>
+        <mirrorTexture value="false" />
+      </headLight>
+      <headLightCorona>
+        <size value="0.600000" />
+        <size_far value="0.600000" />
+        <intensity value="5.000000" />
+        <intensity_far value="1.000000" />
+        <color value="0xFFFFFFFF" />
+        <numCoronas value="2" />
+        <distBetweenCoronas value="3" />
+        <distBetweenCoronas_far value="220" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.132000" />
+        <zRotation value="0.440000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </headLightCorona>
+      <reversingLight>
+        <intensity value="0.500000" />
+        <falloffMax value="4.000000" />
+        <falloffExponent value="32.000000" />
+        <innerConeAngle value="45.000000" />
+        <outerConeAngle value="90.000000" />
+        <emmissiveBoost value="false" />
+        <color value="0xFFFFFFFF" />
+        <textureName />
+        <mirrorTexture value="true" />
+      </reversingLight>
+      <reversingLightCorona>
+        <size value="0.800000" />
+        <size_far value="2.000000" />
+        <intensity value="1.500000" />
+        <intensity_far value="1.000000" />
+        <color value="0x00F7F7F7" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </reversingLightCorona>
+      <name>komoda</name>
+    </Item>
+    <Item>
+      <id value="149" />
+      <indicator>
+        <intensity value="0.375000" />
+        <falloffMax value="2.500000" />
+        <falloffExponent value="8.000000" />
+        <innerConeAngle value="30.000000" />
+        <outerConeAngle value="80.000000" />
+        <emmissiveBoost value="false" />
+        <color value="0xFFFF8000" />
+        <textureName />
+        <mirrorTexture value="true" />
+      </indicator>
+      <rearIndicatorCorona>
+        <size value="0.000000" />
+        <size_far value="0.000000" />
+        <intensity value="0.000000" />
+        <intensity_far value="0.000000" />
+        <color value="0x00000000" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </rearIndicatorCorona>
+      <frontIndicatorCorona>
+        <size value="0.000000" />
+        <size_far value="0.000000" />
+        <intensity value="0.000000" />
+        <intensity_far value="0.000000" />
+        <color value="0x00000000" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </frontIndicatorCorona>
+      <tailLight>
+        <intensity value="0.250000" />
+        <falloffMax value="4.000000" />
+        <falloffExponent value="16.000000" />
+        <innerConeAngle value="45.000000" />
+        <outerConeAngle value="90.000000" />
+        <emmissiveBoost value="false" />
+        <color value="0xFFFF0000" />
+        <textureName />
+        <mirrorTexture value="true" />
+      </tailLight>
+      <tailLightCorona>
+        <size value="0.000000" />
+        <size_far value="0.000000" />
+        <intensity value="4.000000" />
+        <intensity_far value="1.000000" />
+        <color value="0xFFFF1E05" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </tailLightCorona>
+      <tailLightMiddleCorona>
+        <size value="0.000000" />
+        <size_far value="0.000000" />
+        <intensity value="0.000000" />
+        <intensity_far value="0.000000" />
+        <color value="0x00000000" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </tailLightMiddleCorona>
+      <headLight>
+        <intensity value="1.000000" />
+        <falloffMax value="0.000000" />
+        <falloffExponent value="30.000000" />
+        <innerConeAngle value="0.000000" />
+        <outerConeAngle value="60.000000" />
+        <emmissiveBoost value="false" />
+        <color value="0xFFFFFFCC" />
+        <textureName>VehicleLight_car_LED1</textureName>
+        <mirrorTexture value="false" />
+      </headLight>
+      <headLightCorona>
+        <size value="0.600000" />
+        <size_far value="0.600000" />
+        <intensity value="5.000000" />
+        <intensity_far value="1.000000" />
+        <color value="0xFFFFFFFF" />
+        <numCoronas value="2" />
+        <distBetweenCoronas value="16" />
+        <distBetweenCoronas_far value="220" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.198000" />
+        <zRotation value="0.653000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </headLightCorona>
+      <reversingLight>
+        <intensity value="0.500000" />
+        <falloffMax value="4.000000" />
+        <falloffExponent value="32.000000" />
+        <innerConeAngle value="45.000000" />
+        <outerConeAngle value="90.000000" />
+        <emmissiveBoost value="false" />
+        <color value="0xFFFFFFFF" />
+        <textureName />
+        <mirrorTexture value="true" />
+      </reversingLight>
+      <reversingLightCorona>
+        <size value="0.000000" />
+        <size_far value="0.000000" />
+        <intensity value="1.500000" />
+        <intensity_far value="1.000000" />
+        <color value="0x00F7F7F7" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </reversingLightCorona>
+      <name>sugoi</name>
+    </Item>
+	<Item>
+      <id value="151" />
+      <indicator>
+        <intensity value="0.150000" />
+        <falloffMax value="3.500000" />
+        <falloffExponent value="1.600000" />
+        <innerConeAngle value="0.0000000" />
+        <outerConeAngle value="6.0000000" />
+        <emmissiveBoost value="false" />
+        <color value="0xFFFF8000" />
+        <textureName />
+        <mirrorTexture value="true" />
+      </indicator>
+      <rearIndicatorCorona>
+        <size value="0.000000" />
+        <size_far value="0.700000" />
+        <intensity value="0.700000" />
+        <intensity_far value="0.500000" />
+        <color value="0x00000000" />
+        <numCoronas value="2" />
+        <distBetweenCoronas value="15" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.113000" />
+        <zRotation value="0.641000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </rearIndicatorCorona>
+      <frontIndicatorCorona>
+        <size value="0.000000" />
+        <size_far value="0.000000" />
+        <intensity value="0.000000" />
+        <intensity_far value="0.000000" />
+        <color value="0x00000000" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </frontIndicatorCorona>
+      <tailLight>
+        <intensity value="0.150000" />
+        <falloffMax value="4.000000" />
+        <falloffExponent value="16.000000" />
+        <innerConeAngle value="45.000000" />
+        <outerConeAngle value="90.000000" />
+        <emmissiveBoost value="false" />
+        <color value="0xFFFF0000" />
+        <textureName />
+        <mirrorTexture value="true" />
+      </tailLight>
+      <tailLightCorona>
+        <size value="1.500000" />
+        <size_far value="0.000000" />
+        <intensity value="4.000000" />
+        <intensity_far value="1.000000" />
+        <color value="0xFFFF1E05" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </tailLightCorona>
+      <tailLightMiddleCorona>
+        <size value="0.000000" />
+        <size_far value="0.000000" />
+        <intensity value="0.000000" />
+        <intensity_far value="0.000000" />
+        <color value="0x00000000" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </tailLightMiddleCorona>
+      <headLight>
+        <intensity value="1.000000" />
+        <falloffMax value="0.000000" />
+        <falloffExponent value="30.000000" />
+        <innerConeAngle value="0.000000" />
+        <outerConeAngle value="60.000000" />
+        <emmissiveBoost value="false" />
+        <color value="0xFFFFFFCC" />
+        <textureName>VehicleLight_car_LED1</textureName>
+        <mirrorTexture value="false" />
+      </headLight>
+      <headLightCorona>
+        <size value="0.600000" />
+        <size_far value="0.600000" />
+        <intensity value="5.000000" />
+        <intensity_far value="1.000000" />
+        <color value="0xFFFFFFFF" />
+        <numCoronas value="2" />
+        <distBetweenCoronas value="65" />
+        <distBetweenCoronas_far value="1" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.339000" />
+        <zRotation value="1.244000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </headLightCorona>
+      <reversingLight>
+        <intensity value="0.500000" />
+        <falloffMax value="4.000000" />
+        <falloffExponent value="32.000000" />
+        <innerConeAngle value="45.000000" />
+        <outerConeAngle value="90.000000" />
+        <emmissiveBoost value="false" />
+        <color value="0xFFFFFFFF" />
+        <textureName />
+        <mirrorTexture value="true" />
+      </reversingLight>
+      <reversingLightCorona>
+        <size value="0.000000" />
+        <size_far value="0.000000" />
+        <intensity value="1.500000" />
+        <intensity_far value="1.000000" />
+        <color value="0x00F7F7F7" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </reversingLightCorona>
+      <name>vstr</name>
+    </Item>
+	<Item>
+      <id value="153" />
+      <indicator>
+        <intensity value="0.150000" />
+        <falloffMax value="3.500000" />
+        <falloffExponent value="1.600000" />
+        <innerConeAngle value="0.0000000" />
+        <outerConeAngle value="6.0000000" />
+        <emmissiveBoost value="false" />
+        <color value="0xFFFF8000" />
+        <textureName />
+        <mirrorTexture value="true" />
+      </indicator>
+      <rearIndicatorCorona>
+        <size value="0.000000" />
+        <size_far value="0.700000" />
+        <intensity value="0.700000" />
+        <intensity_far value="0.500000" />
+        <color value="0x00000000" />
+        <numCoronas value="2" />
+        <distBetweenCoronas value="15" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.113000" />
+        <zRotation value="0.641000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </rearIndicatorCorona>
+      <frontIndicatorCorona>
+        <size value="0.000000" />
+        <size_far value="0.000000" />
+        <intensity value="0.000000" />
+        <intensity_far value="0.000000" />
+        <color value="0x00000000" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </frontIndicatorCorona>
+      <tailLight>
+        <intensity value="0.250000" />
+        <falloffMax value="4.000000" />
+        <falloffExponent value="16.000000" />
+        <innerConeAngle value="45.000000" />
+        <outerConeAngle value="90.000000" />
+        <emmissiveBoost value="false" />
+        <color value="0xFFFF0000" />
+        <textureName />
+        <mirrorTexture value="true" />
+      </tailLight>
+      <tailLightCorona>
+        <size value="0.000000" />
+        <size_far value="2.500000" />
+        <intensity value="5.000000" />
+        <intensity_far value="1.000000" />
+        <color value="0xFFFF1E05" />
+        <numCoronas value="3" />
+        <distBetweenCoronas value="1" />
+        <distBetweenCoronas_far value="226" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </tailLightCorona>
+      <tailLightMiddleCorona>
+        <size value="0.000000" />
+        <size_far value="0.000000" />
+        <intensity value="0.000000" />
+        <intensity_far value="0.000000" />
+        <color value="0x00000000" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </tailLightMiddleCorona>
+      <headLight>
+        <intensity value="1.500000" />
+        <falloffMax value="0.000000" />
+        <falloffExponent value="28.000000" />
+        <innerConeAngle value="50.000000" />
+        <outerConeAngle value="67.500000" />
+        <emmissiveBoost value="false" />
+        <color value="0xFFFFFFCC" />
+        <textureName>VehicleLight_car_LED1</textureName>
+        <mirrorTexture value="false" />
+      </headLight>
+      <headLightCorona>
+        <size value="0.100000" />
+        <size_far value="7.000000" />
+        <intensity value="7.000000" />
+        <intensity_far value="5.000000" />
+        <color value="0xFFFFFFFF" />
+        <numCoronas value="2" />
+        <distBetweenCoronas value="1" />
+        <distBetweenCoronas_far value="65" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.339000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </headLightCorona>
+      <reversingLight>
+        <intensity value="0.500000" />
+        <falloffMax value="4.000000" />
+        <falloffExponent value="32.000000" />
+        <innerConeAngle value="45.000000" />
+        <outerConeAngle value="90.000000" />
+        <emmissiveBoost value="false" />
+        <color value="0xFFFFFFFF" />
+        <textureName />
+        <mirrorTexture value="true" />
+      </reversingLight>
+      <reversingLightCorona>
+        <size value="0.000000" />
+        <size_far value="0.000000" />
+        <intensity value="1.500000" />
+        <intensity_far value="1.000000" />
+        <color value="0x00F7F7F7" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </reversingLightCorona>
+      <name>furia</name>
+    </Item>
+	<Item>
+      <id value="150" />
+      <indicator>
+        <intensity value="0.150000" />
+        <falloffMax value="3.500000" />
+        <falloffExponent value="1.600000" />
+        <innerConeAngle value="0.0000000" />
+        <outerConeAngle value="6.0000000" />
+        <emmissiveBoost value="false" />
+        <color value="0xFFFF8000" />
+        <textureName />
+        <mirrorTexture value="true" />
+      </indicator>
+      <rearIndicatorCorona>
+        <size value="0.000000" />
+        <size_far value="0.700000" />
+        <intensity value="0.700000" />
+        <intensity_far value="0.500000" />
+        <color value="0x00000000" />
+        <numCoronas value="2" />
+        <distBetweenCoronas value="15" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.113000" />
+        <zRotation value="0.641000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </rearIndicatorCorona>
+      <frontIndicatorCorona>
+        <size value="0.000000" />
+        <size_far value="0.000000" />
+        <intensity value="0.000000" />
+        <intensity_far value="0.000000" />
+        <color value="0x00000000" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </frontIndicatorCorona>
+      <tailLight>
+        <intensity value="0.250000" />
+        <falloffMax value="4.000000" />
+        <falloffExponent value="16.000000" />
+        <innerConeAngle value="45.000000" />
+        <outerConeAngle value="90.000000" />
+        <emmissiveBoost value="false" />
+        <color value="0xFFFF0000" />
+        <textureName />
+        <mirrorTexture value="true" />
+      </tailLight>
+      <tailLightCorona>
+        <size value="0.000000" />
+        <size_far value="0.000000" />
+        <intensity value="4.000000" />
+        <intensity_far value="1.000000" />
+        <color value="0xFFFF1E05" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </tailLightCorona>
+      <tailLightMiddleCorona>
+        <size value="0.000000" />
+        <size_far value="0.000000" />
+        <intensity value="0.000000" />
+        <intensity_far value="0.000000" />
+        <color value="0x00000000" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </tailLightMiddleCorona>
+      <headLight>
+        <intensity value="1.000000" />
+        <falloffMax value="0.000000" />
+        <falloffExponent value="30.000000" />
+        <innerConeAngle value="0.000000" />
+        <outerConeAngle value="60.000000" />
+        <emmissiveBoost value="false" />
+        <color value="0xFFFFFFCC" />
+        <textureName>VehicleLight_car_LED1</textureName>
+        <mirrorTexture value="false" />
+      </headLight>
+      <headLightCorona>
+        <size value="0.600000" />
+        <size_far value="0.600000" />
+        <intensity value="5.000000" />
+        <intensity_far value="1.000000" />
+        <color value="0xFFFFFFFF" />
+        <numCoronas value="2" />
+        <distBetweenCoronas value="16" />
+        <distBetweenCoronas_far value="220" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.198000" />
+        <zRotation value="0.653000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </headLightCorona>
+      <reversingLight>
+        <intensity value="0.500000" />
+        <falloffMax value="4.000000" />
+        <falloffExponent value="32.000000" />
+        <innerConeAngle value="45.000000" />
+        <outerConeAngle value="90.000000" />
+        <emmissiveBoost value="false" />
+        <color value="0xFFFFFFFF" />
+        <textureName />
+        <mirrorTexture value="true" />
+      </reversingLight>
+      <reversingLightCorona>
+        <size value="0.000000" />
+        <size_far value="0.000000" />
+        <intensity value="1.500000" />
+        <intensity_far value="1.000000" />
+        <color value="0x00F7F7F7" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </reversingLightCorona>
+      <name>rebla</name>
+    </Item>
+    <Item>
+      <id value="152" />
+      <indicator>
+        <intensity value="0.375000" />
+        <falloffMax value="2.500000" />
+        <falloffExponent value="8.000000" />
+        <innerConeAngle value="20.000000" />
+        <outerConeAngle value="50.000000" />
+        <emmissiveBoost value="false" />
+        <color value="0xFFFF8000" />
+        <textureName />
+        <mirrorTexture value="true" />
+      </indicator>
+      <rearIndicatorCorona>
+        <size value="0.000000" />
+        <size_far value="0.000000" />
+        <intensity value="0.000000" />
+        <intensity_far value="0.000000" />
+        <color value="0x00000000" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </rearIndicatorCorona>
+      <frontIndicatorCorona>
+        <size value="0.000000" />
+        <size_far value="0.000000" />
+        <intensity value="0.000000" />
+        <intensity_far value="0.000000" />
+        <color value="0x00000000" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </frontIndicatorCorona>
+      <tailLight>
+        <intensity value="0.250000" />
+        <falloffMax value="4.000000" />
+        <falloffExponent value="16.000000" />
+        <innerConeAngle value="45.000000" />
+        <outerConeAngle value="90.000000" />
+        <emmissiveBoost value="false" />
+        <color value="0xFFFF0A01" />
+        <textureName />
+        <mirrorTexture value="true" />
+      </tailLight>
+      <tailLightCorona>
+        <size value="0.000000" />
+        <size_far value="8.000000" />
+        <intensity value="4.000000" />
+        <intensity_far value="1.000000" />
+        <color value="0xFFFF2D05" />
+        <numCoronas value="3" />
+        <distBetweenCoronas value="12" />
+        <distBetweenCoronas_far value="41" />
+        <xRotation value="0.000000" />
+        <yRotation value="1.879000" />
+        <zRotation value="5.730000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </tailLightCorona>
+      <tailLightMiddleCorona>
+        <size value="0.000000" />
+        <size_far value="0.000000" />
+        <intensity value="0.000000" />
+        <intensity_far value="0.000000" />
+        <color value="0x00000000" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </tailLightMiddleCorona>
+      <headLight>
+        <intensity value="1.000000" />
+        <falloffMax value="35.000000" />
+        <falloffExponent value="16.000000" />
+        <innerConeAngle value="0.000000" />
+        <outerConeAngle value="60.000000" />
+        <emmissiveBoost value="false" />
+        <color value="0xFFFFD859" />
+        <textureName>VehicleLight_car_antique</textureName>
+        <mirrorTexture value="false" />
+      </headLight>
+      <headLightCorona>
+        <size value="0.000000" />
+        <size_far value="10.000000" />
+        <intensity value="5.000000" />
+        <intensity_far value="1.000000" />
+        <color value="0xFFFCBB42" />
+        <numCoronas value="2" />
+        <distBetweenCoronas value="48" />
+        <distBetweenCoronas_far value="1" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.013000" />
+        <zRotation value="0.603000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </headLightCorona>
+      <reversingLight>
+        <intensity value="0.1000" />
+        <falloffMax value="20.000000" />
+        <falloffExponent value="32.000000" />
+        <innerConeAngle value="20.000000" />
+        <outerConeAngle value="90.000000" />
+        <emmissiveBoost value="false" />
+        <color value="0xFFFFFFFF" />
+        <textureName />
+        <mirrorTexture value="true" />
+      </reversingLight>
+      <reversingLightCorona>
+        <size value="0.800000" />
+        <size_far value="2.000000" />
+        <intensity value="1.500000" />
+        <intensity_far value="1.000000" />
+        <color value="0x00F7F7F7" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </reversingLightCorona>
+      <name>asbo</name>
+    </Item>
+</Lights>
+  <Wheels>
+    <Item/> <!-- VWT_SPORT -->
+    <Item/> <!-- VWT_MUSCLE -->
+    <Item/> <!-- VWT_LOWRIDER -->
+    <Item/> <!-- VWT_SUV -->
+    <Item/> <!-- VWT_OFFROAD -->
+    <Item/> <!-- VWT_TUNER -->
+    <Item/> <!-- VWT_BIKE -->
+    <Item/> <!-- VWT_HIEND -->
+    <Item/> <!-- VWT_SUPERMOD1 -->
+    <Item/> <!-- VWT_SUPERMOD2 -->
+    <Item>  <!-- VWT_SUPERMOD3-->
+      <Item>
+        <wheelName>wheel_racecar_1</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL1</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_2</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL2</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_3</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL3</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_4</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL4</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_5</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL5</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_6</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL6</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_7</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL7</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_8</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL8</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_9</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL9</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_10</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL10</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_11</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL11</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_12</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL12</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_13</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL13</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_14</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL14</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_15</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL15</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_16</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL16</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_17</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL17</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_18</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL18</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_19</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL19</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_20</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL20</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_1a</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL1</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_2a</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL2</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_3a</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL3</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_4a</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL4</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_5a</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL5</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_6a</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL6</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_7a</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL7</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_8a</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL8</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_9a</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL9</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_10a</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL10</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_11a</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL11</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_12a</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL12</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_13a</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL13</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_14a</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL14</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_15a</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL15</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_16a</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL16</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_17a</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL17</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_18a</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL18</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_19a</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL19</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_20a</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL20</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_1b</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL1</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_2b</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL2</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_3b</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL3</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_4b</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL4</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_5b</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL5</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_6b</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL6</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_7b</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL7</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_8b</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL8</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_9b</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL9</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_10b</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL10</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_11b</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL11</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_12b</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL12</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_13b</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL13</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_14b</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL14</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_15b</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL15</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_16b</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL16</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_17b</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL17</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_18b</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL18</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_19b</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL19</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_20b</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL20</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_1c</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL1</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_2c</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL2</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_3c</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL3</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_4c</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL4</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_5c</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL5</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_6c</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL6</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_7c</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL7</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_8c</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL8</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_9c</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL9</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_10c</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL10</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_11c</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL11</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_12c</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL12</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_13c</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL13</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_14c</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL14</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_15c</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL15</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_16c</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL16</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_17c</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL17</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_18c</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL18</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_19c</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL19</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_20c</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL20</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_1d</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL1</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_2d</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL2</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_3d</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL3</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_4d</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL4</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_5d</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL5</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_6d</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL6</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_7d</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL7</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_8d</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL8</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_9d</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL9</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_10d</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL10</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_11d</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL11</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_12d</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL12</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_13d</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL13</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_14d</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL14</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_15d</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL15</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_16d</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL16</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_17d</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL17</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_18d</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL18</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_19d</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL19</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_20d</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL20</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_1e</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL1</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_2e</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL2</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_3e</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL3</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_4e</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL4</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_5e</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL5</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_6e</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL6</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_7e</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL7</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_8e</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL8</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_9e</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL9</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_10e</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL10</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_11e</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL11</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_12e</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL12</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_13e</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL13</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_14e</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL14</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_15e</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL15</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_16e</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL16</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_17e</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL17</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_18e</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL18</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_19e</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL19</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_20e</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL20</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_1f</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL1</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_2f</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL2</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_3f</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL3</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_4f</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL4</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_5f</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL5</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_6f</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL6</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_7f</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL7</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_8f</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL8</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_9f</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL9</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_10f</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL10</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_11f</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL11</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_12f</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL12</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_13f</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL13</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_14f</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL14</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_15f</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL15</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_16f</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL16</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_17f</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL17</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_18f</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL18</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_19f</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL19</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_racecar_20f</wheelName>
+        <wheelVariation />
+        <modShopLabel>RACECAR_WHL20</modShopLabel>
+        <rimRadius value="0.277500"/>
+        <rear value="false"/>
+      </Item>
+     </Item>
+  </Wheels>
+</CVehicleModelInfoVarGlobal>
